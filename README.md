@@ -3,11 +3,15 @@
 
 
 This project involves training a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify Rock-Paper-Scissors hand gestures from images.
+
+
+## Dataset
+
+  https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip\
+
 ## Documentation
 
 1. Data Collection:
-
-- The dataset used for this project is available on GitHub.
 - Downloaded the dataset and extracted the images using Python's zipfile library.
 
 2. Data Preprocessing:
